@@ -181,7 +181,7 @@ if (habito3 === "SI" || habito3 === "si") {
 
 contrato_total = cuota + cargos_edad + cargos1 + cargos2 + cargos3;
 
-console.log(`Poliza Tip ${poliza}: ${cuota}`);
+console.log(`Poliza Tipo ${poliza}: ${cuota}`);
 console.log(`Cargo por Edad: ${cargos_edad}`);
 console.log(`Cargo por Alcohol: ${cargos1}`);
 console.log(`Cargo por usar lentes: ${cargos2}`);
